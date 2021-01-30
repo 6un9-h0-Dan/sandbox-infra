@@ -1,3 +1,6 @@
+# This repo has been moved to https://github.com/Sage-Bionetworks-IT/organizations-infra/tree/master/sceptre/sandbox
+
+
 # Overview
 Install, configure and manage the AWS org-sagebase-sandbox account.
 This account is for development of new ideas, once initial setup
